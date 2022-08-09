@@ -1,0 +1,38 @@
+h1 {
+    text-align:center;
+    color:rgb(0, 0, 0);
+    background:rgb(146, 238, 144);
+}
+h2{
+    text-align:center;
+    color:rgb(0, 0, 0); 
+    background:rgb(146, 238, 144);
+}
+body {
+    width:70%;
+    background-color: rgb(226, 241, 134);
+}
+img{
+    display: block;
+    margin: 0px auto;
+   }
+#conteiner{
+    display : -moz-stack;
+              flex-direction : row-reverse;
+}
+.uno{
+    background:rgb(146, 238, 144);
+                text-align:center;
+}
+.dos{
+    background:lightgreen;
+                text-align:center;
+}
+#hobbiesimg{
+    background:lightgreen;
+                text-align:justify;
+}
+#content2{
+    background:rgb(146, 238, 144);
+                text-align:center
+}
